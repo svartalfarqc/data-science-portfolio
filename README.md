@@ -4,7 +4,8 @@ This repository will contain my data science projects.
 
 ## Kaggle
 
-[moved to its own repository]
+[moved to its own private repository]
+Find me on [Kaggle]
 
 ## Other projects
 
